@@ -1,0 +1,56 @@
+{
+  "allVideos": [
+    {
+      "caption": "manjummal Boys",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=16N83WzeasJyhKuF&autoplay=1",
+      "image": "https://thesouthfirst.com/wp-content/uploads/2023/12/Manjummel-Boys-e1702101636227.jpg",
+      "id": 1
+    },
+    {
+      "caption": "Premalu",
+      "url": "https://www.youtube.com/embed/quIk4ofzIao?si=16N83WzeasJyhKuF&autoplay=1",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00379479-nzauqwqeyj-landscape.jpg",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "Movies ",
+      "video": [
+        {
+          "caption": "Premalu",
+          "url": "https://www.youtube.com/embed/quIk4ofzIao?si=16N83WzeasJyhKuF&autoplay=1",
+          "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00379479-nzauqwqeyj-landscape.jpg",
+          "id": 2
+        },
+        {
+          "caption": "manjummal Boys",
+          "url": "https://www.youtube.com/embed/id848Ww1YLo?si=16N83WzeasJyhKuF&autoplay=1",
+          "image": "https://thesouthfirst.com/wp-content/uploads/2023/12/Manjummel-Boys-e1702101636227.jpg",
+          "id": 1
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "caption": "manjummal Boys",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=16N83WzeasJyhKuF&autoplay=1",
+      "datetime": "2024-03-13T07:04:03.095Z",
+      "id": 1
+    },
+    {
+      "caption": "manjummal Boys",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=16N83WzeasJyhKuF&autoplay=1",
+      "datetime": "2024-03-13T07:10:22.056Z",
+      "id": 2
+    },
+    {
+      "caption": "Premalu",
+      "url": "https://www.youtube.com/embed/quIk4ofzIao?si=16N83WzeasJyhKuF&autoplay=1",
+      "datetime": "2024-03-13T07:42:30.043Z",
+      "id": 3
+    }
+  ]
+}
